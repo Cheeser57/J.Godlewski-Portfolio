@@ -1,0 +1,75 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (samoloteu.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  collisionFunctions.cpp
+  gameManager.cpp
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\gameManager.cpp(30,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\gameManager.cpp(90,29): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+  GameObject.cpp
+  lodepng.cpp
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\lodepng.cpp(762,34): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\lodepng.cpp(1422,29): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\lodepng.cpp(1426,31): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\lodepng.cpp(1498,86): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\lodepng.cpp(3441,46): warning C4334: '<<': result of 32-bit shift implicitly converted to 64 bits (was 64-bit shift intended?)
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\lodepng.cpp(3455,54): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\lodepng.cpp(4262,75): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\lodepng.cpp(4310,41): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\lodepng.cpp(4390,59): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\lodepng.cpp(5329,38): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  openglFunctions.cpp
+  PhysObject.cpp
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\PhysObject.cpp(135,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\PhysObject.cpp(138,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  ResourceManager.cpp
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\ResourceManager.cpp(125,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\ResourceManager.cpp(154,76): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\ResourceManager.cpp(271,38): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\ResourceManager.cpp(283,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  ShaderProgram.cpp
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\ShaderProgram.cpp(37,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  textRenderer.cpp
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\textRenderer.cpp(74,33): warning C4838: conversion from 'FT_Pos' to 'unsigned int' requires a narrowing conversion
+  worldGeneration.cpp
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\worldGeneration.cpp(19,131): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\worldGeneration.cpp(21,135): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\worldGeneration.cpp(23,134): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\worldGeneration.cpp(93,125): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\worldGeneration.cpp(102,132): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\worldGeneration.cpp(104,137): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\worldGeneration.cpp(106,137): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  main.cpp
+C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\engine\main.cpp(41,104): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  engine.vcxproj -> C:\Users\godle\Desktop\Nowy folder\flight-sim-game\engine\x64\Debug\engine.exe
