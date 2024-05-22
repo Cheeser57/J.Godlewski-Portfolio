@@ -1,0 +1,15 @@
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\rest\TransformerController.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\Filter.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\PrettifyDecorator.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\app\TextTransformerApplication.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\JSON.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\JSONTransformer.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\BasicJsonTransformer.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\JsonDecorator.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\TextTransformer.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\MinifyDecorator.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\FilterOnly.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\rest\TextTransformerController.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\JsonDecoratorBuilder.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\JsonComparator.java
+C:\Users\godle\Desktop\JSON2\2\IOD-L01-Delta\ioprojectarchitecture\src\main\java\pl\put\poznan\transformer\logic\FieldInserter.java

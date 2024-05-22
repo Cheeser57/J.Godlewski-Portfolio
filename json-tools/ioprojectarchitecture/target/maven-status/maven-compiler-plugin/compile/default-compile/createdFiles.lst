@@ -1,0 +1,15 @@
+pl\put\poznan\transformer\logic\BasicJsonTransformer.class
+pl\put\poznan\transformer\logic\JsonComparator.class
+pl\put\poznan\transformer\rest\TransformerController$RequestWrapper.class
+pl\put\poznan\transformer\logic\JSON.class
+pl\put\poznan\transformer\logic\JSONTransformer.class
+pl\put\poznan\transformer\rest\TransformerController.class
+pl\put\poznan\transformer\logic\FilterOnly.class
+pl\put\poznan\transformer\logic\JsonDecoratorBuilder.class
+pl\put\poznan\transformer\logic\Filter.class
+pl\put\poznan\transformer\logic\JsonDecorator.class
+pl\put\poznan\transformer\logic\MinifyDecorator.class
+pl\put\poznan\transformer\app\TextTransformerApplication.class
+pl\put\poznan\transformer\rest\TextTransformerController.class
+pl\put\poznan\transformer\logic\PrettifyDecorator.class
+pl\put\poznan\transformer\logic\TextTransformer.class
