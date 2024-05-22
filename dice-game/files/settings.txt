@@ -1,0 +1,7 @@
+costs: 4 0, 0 4, 5 5, 20 20, 0 6, 8 8, 10 1, 10 5, 10 2, 
+startDice: 3
+startFood: 500
+startWood: 20
+startMetal: 20
+waveFrequency: 20
+castleHP: 10
